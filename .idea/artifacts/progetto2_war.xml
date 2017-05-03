@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="progetto2:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="siw-spring.war">
-      <element id="artifact" artifact-name="progetto2:war exploded" />
-    </root>
-  </artifact>
-</component>
