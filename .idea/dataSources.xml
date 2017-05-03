@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="628344136">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
     <data-source source="LOCAL" name="persistenceUnit/OpenJPA" uuid="850dede5-c9c0-44a0-8285-bd3fc5802eb0">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
@@ -21,7 +21,6 @@
       </libraries>
     </data-source>
     <data-source source="LOCAL" name="dataSource" uuid="b25934fb-8e33-4a1f-9ecf-3d8cfa5723ba">
-      <driver-ref>1q2w3e</driver-ref>
       <imported>true</imported>
       <configured-by-url>true</configured-by-url>
       <remarks>$PROJECT_DIR$/src/main/webapp/WEB-INF/spring/spring.xml</remarks>
